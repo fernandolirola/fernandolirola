@@ -30,7 +30,7 @@ Atuo no desenvolvimento de soluções de alta performance para o ecossistema de 
 
 ### 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandolirola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
