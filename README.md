@@ -28,13 +28,6 @@ Atuo no desenvolvimento de soluções de alta performance para o ecossistema de 
 
 ---
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandolirola&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
-
----
-
 ### 📫 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandolirola)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.lirola@betmgm.com.br)
