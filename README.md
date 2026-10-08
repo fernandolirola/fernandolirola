@@ -1,4 +1,4 @@
-## 🚀 Estatístico e atualmente Odds Compiler @ BetMGM | Betting Tech & Data Modeling
+## 🚀 Estatístico | Betting Tech & Data Modeling
 Atuo no desenvolvimento de soluções de alta performance para o ecossistema de apostas esportivas, focando em cálculo, modelagem estatística e automação de processos
 
 ### 🛠️ No que me destaco:
